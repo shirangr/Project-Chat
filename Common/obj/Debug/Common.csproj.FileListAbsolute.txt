@@ -1,0 +1,15 @@
+C:\Users\Michaela Grosu\Desktop\ProjectChat\Common\bin\Debug\Common.dll
+C:\Users\Michaela Grosu\Desktop\ProjectChat\Common\bin\Debug\Common.pdb
+C:\Users\Michaela Grosu\Desktop\ProjectChat\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\Michaela Grosu\Desktop\ProjectChat\Common\obj\Debug\Common.dll
+C:\Users\Michaela Grosu\Desktop\ProjectChat\Common\obj\Debug\Common.pdb
+C:\Users\Michaela Grosu\Desktop\Shiran\JohnBryce\91228-2\ProjectChat\Common\bin\Debug\Common.dll
+C:\Users\Michaela Grosu\Desktop\Shiran\JohnBryce\91228-2\ProjectChat\Common\bin\Debug\Common.pdb
+C:\Users\Michaela Grosu\Desktop\Shiran\JohnBryce\91228-2\ProjectChat\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\Michaela Grosu\Desktop\Shiran\JohnBryce\91228-2\ProjectChat\Common\obj\Debug\Common.dll
+C:\Users\Michaela Grosu\Desktop\Shiran\JohnBryce\91228-2\ProjectChat\Common\obj\Debug\Common.pdb
+E:\ProjectChat\Common\bin\Debug\Common.dll
+E:\ProjectChat\Common\bin\Debug\Common.pdb
+E:\ProjectChat\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+E:\ProjectChat\Common\obj\Debug\Common.dll
+E:\ProjectChat\Common\obj\Debug\Common.pdb

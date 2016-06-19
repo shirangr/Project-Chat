@@ -1,0 +1,59 @@
+C:\Users\Michaela Grosu\Desktop\ProjectChat\Client\bin\Debug\Client.exe.config
+C:\Users\Michaela Grosu\Desktop\ProjectChat\Client\bin\Debug\Client.exe
+C:\Users\Michaela Grosu\Desktop\ProjectChat\Client\bin\Debug\Client.pdb
+C:\Users\Michaela Grosu\Desktop\ProjectChat\Client\bin\Debug\Common.dll
+C:\Users\Michaela Grosu\Desktop\ProjectChat\Client\bin\Debug\Server.exe
+C:\Users\Michaela Grosu\Desktop\ProjectChat\Client\bin\Debug\Common.pdb
+C:\Users\Michaela Grosu\Desktop\ProjectChat\Client\bin\Debug\Server.pdb
+C:\Users\Michaela Grosu\Desktop\ProjectChat\Client\obj\Debug\ClientSide.csprojResolveAssemblyReference.cache
+C:\Users\Michaela Grosu\Desktop\ProjectChat\Client\obj\Debug\ClientSide.ChatWindow.resources
+C:\Users\Michaela Grosu\Desktop\ProjectChat\Client\obj\Debug\ClientSide.LoginClient.resources
+C:\Users\Michaela Grosu\Desktop\ProjectChat\Client\obj\Debug\ClientSide.Properties.Resources.resources
+C:\Users\Michaela Grosu\Desktop\ProjectChat\Client\obj\Debug\ClientSide.csproj.GenerateResource.Cache
+C:\Users\Michaela Grosu\Desktop\ProjectChat\Client\obj\Debug\Client.exe
+C:\Users\Michaela Grosu\Desktop\ProjectChat\Client\obj\Debug\Client.pdb
+C:\Users\Michaela Grosu\Desktop\Shiran\JohnBryce\91228-2\ProjectChat\Client\bin\Debug\Client.exe.config
+C:\Users\Michaela Grosu\Desktop\Shiran\JohnBryce\91228-2\ProjectChat\Client\obj\Debug\Client.exe
+C:\Users\Michaela Grosu\Desktop\Shiran\JohnBryce\91228-2\ProjectChat\Client\obj\Debug\Client.pdb
+C:\Users\Michaela Grosu\Desktop\Shiran\JohnBryce\91228-2\ProjectChat\Client\bin\Debug\Client.exe
+C:\Users\Michaela Grosu\Desktop\Shiran\JohnBryce\91228-2\ProjectChat\Client\bin\Debug\Client.pdb
+C:\Users\Michaela Grosu\Desktop\Shiran\JohnBryce\91228-2\ProjectChat\Client\bin\Debug\Common.dll
+C:\Users\Michaela Grosu\Desktop\Shiran\JohnBryce\91228-2\ProjectChat\Client\bin\Debug\Server.exe
+C:\Users\Michaela Grosu\Desktop\Shiran\JohnBryce\91228-2\ProjectChat\Client\bin\Debug\Common.pdb
+C:\Users\Michaela Grosu\Desktop\Shiran\JohnBryce\91228-2\ProjectChat\Client\bin\Debug\Server.pdb
+C:\Users\Michaela Grosu\Desktop\Shiran\JohnBryce\91228-2\ProjectChat\Client\obj\Debug\ClientSide.csprojResolveAssemblyReference.cache
+C:\Users\Michaela Grosu\Desktop\Shiran\JohnBryce\91228-2\ProjectChat\Client\obj\Debug\ClientSide.ChatWindow.resources
+C:\Users\Michaela Grosu\Desktop\Shiran\JohnBryce\91228-2\ProjectChat\Client\obj\Debug\ClientSide.LoginClient.resources
+C:\Users\Michaela Grosu\Desktop\Shiran\JohnBryce\91228-2\ProjectChat\Client\obj\Debug\ClientSide.Properties.Resources.resources
+C:\Users\Michaela Grosu\Desktop\Shiran\JohnBryce\91228-2\ProjectChat\Client\obj\Debug\ClientSide.csproj.GenerateResource.Cache
+F:\ProjectChat\Client\bin\Debug\Client.exe.config
+F:\ProjectChat\Client\obj\Debug\Client.exe
+F:\ProjectChat\Client\obj\Debug\ClientSide.csprojResolveAssemblyReference.cache
+F:\ProjectChat\Client\obj\Debug\ClientSide.ChatWindow.resources
+F:\ProjectChat\Client\obj\Debug\ClientSide.LoginClient.resources
+F:\ProjectChat\Client\obj\Debug\ClientSide.Properties.Resources.resources
+F:\ProjectChat\Client\obj\Debug\ClientSide.csproj.GenerateResource.Cache
+F:\ProjectChat\Client\bin\Debug\Client.exe
+F:\ProjectChat\Client\bin\Debug\Client.pdb
+F:\ProjectChat\Client\bin\Debug\Common.dll
+F:\ProjectChat\Client\bin\Debug\Server.exe
+F:\ProjectChat\Client\bin\Debug\Common.pdb
+F:\ProjectChat\Client\bin\Debug\Server.pdb
+F:\ProjectChat\Client\obj\Debug\Client.pdb
+E:\ProjectChat\Client\bin\Debug\Client.exe.config
+E:\ProjectChat\Client\obj\Debug\Client.exe
+E:\ProjectChat\Client\obj\Debug\Client.pdb
+E:\ProjectChat\Client\bin\Debug\Client.exe
+E:\ProjectChat\Client\bin\Debug\Client.pdb
+E:\ProjectChat\Client\bin\Debug\Common.dll
+E:\ProjectChat\Client\bin\Debug\Server.exe
+E:\ProjectChat\Client\bin\Debug\Common.pdb
+E:\ProjectChat\Client\bin\Debug\Server.pdb
+E:\ProjectChat\Client\obj\Debug\ClientSide.csprojResolveAssemblyReference.cache
+E:\ProjectChat\Client\obj\Debug\ClientSide.ChatWindow.resources
+E:\ProjectChat\Client\obj\Debug\ClientSide.LoginClient.resources
+E:\ProjectChat\Client\obj\Debug\ClientSide.Properties.Resources.resources
+E:\ProjectChat\Client\obj\Debug\ClientSide.csproj.GenerateResource.Cache
+C:\Users\Shiran\Documents\Visual Studio 2013\Projects\Projects\ProjectChat\Client\bin\Debug\Client.exe.config
+C:\Users\Shiran\Documents\Visual Studio 2013\Projects\Projects\ProjectChat\Client\obj\Debug\Client.exe
+C:\Users\Shiran\Documents\Visual Studio 2013\Projects\Projects\ProjectChat\Client\obj\Debug\Client.pdb

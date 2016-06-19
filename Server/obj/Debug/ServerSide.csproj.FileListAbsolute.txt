@@ -1,0 +1,48 @@
+C:\Users\Michaela Grosu\Desktop\ProjectChat\Server\bin\Debug\Server.exe.config
+C:\Users\Michaela Grosu\Desktop\ProjectChat\Server\bin\Debug\Server.exe
+C:\Users\Michaela Grosu\Desktop\ProjectChat\Server\bin\Debug\Server.pdb
+C:\Users\Michaela Grosu\Desktop\ProjectChat\Server\bin\Debug\Common.dll
+C:\Users\Michaela Grosu\Desktop\ProjectChat\Server\bin\Debug\Common.pdb
+C:\Users\Michaela Grosu\Desktop\ProjectChat\Server\obj\Debug\ServerSide.csprojResolveAssemblyReference.cache
+C:\Users\Michaela Grosu\Desktop\ProjectChat\Server\obj\Debug\ServerSide.LoginServer.resources
+C:\Users\Michaela Grosu\Desktop\ProjectChat\Server\obj\Debug\ServerSide.Properties.Resources.resources
+C:\Users\Michaela Grosu\Desktop\ProjectChat\Server\obj\Debug\ServerSide.TableStatusUsers.resources
+C:\Users\Michaela Grosu\Desktop\ProjectChat\Server\obj\Debug\ServerSide.csproj.GenerateResource.Cache
+C:\Users\Michaela Grosu\Desktop\ProjectChat\Server\obj\Debug\Server.exe
+C:\Users\Michaela Grosu\Desktop\ProjectChat\Server\obj\Debug\Server.pdb
+C:\Users\Michaela Grosu\Desktop\Shiran\JohnBryce\91228-2\ProjectChat\Server\bin\Debug\Server.exe.config
+C:\Users\Michaela Grosu\Desktop\Shiran\JohnBryce\91228-2\ProjectChat\Server\obj\Debug\Server.exe
+C:\Users\Michaela Grosu\Desktop\Shiran\JohnBryce\91228-2\ProjectChat\Server\obj\Debug\Server.pdb
+C:\Users\Michaela Grosu\Desktop\Shiran\JohnBryce\91228-2\ProjectChat\Server\bin\Debug\Server.exe
+C:\Users\Michaela Grosu\Desktop\Shiran\JohnBryce\91228-2\ProjectChat\Server\bin\Debug\Server.pdb
+C:\Users\Michaela Grosu\Desktop\Shiran\JohnBryce\91228-2\ProjectChat\Server\bin\Debug\Common.dll
+C:\Users\Michaela Grosu\Desktop\Shiran\JohnBryce\91228-2\ProjectChat\Server\bin\Debug\Common.pdb
+C:\Users\Michaela Grosu\Desktop\Shiran\JohnBryce\91228-2\ProjectChat\Server\obj\Debug\ServerSide.csprojResolveAssemblyReference.cache
+C:\Users\Michaela Grosu\Desktop\Shiran\JohnBryce\91228-2\ProjectChat\Server\obj\Debug\ServerSide.LoginServer.resources
+C:\Users\Michaela Grosu\Desktop\Shiran\JohnBryce\91228-2\ProjectChat\Server\obj\Debug\ServerSide.Properties.Resources.resources
+C:\Users\Michaela Grosu\Desktop\Shiran\JohnBryce\91228-2\ProjectChat\Server\obj\Debug\ServerSide.TableStatusUsers.resources
+C:\Users\Michaela Grosu\Desktop\Shiran\JohnBryce\91228-2\ProjectChat\Server\obj\Debug\ServerSide.csproj.GenerateResource.Cache
+F:\ProjectChat\Server\bin\Debug\Server.exe.config
+F:\ProjectChat\Server\obj\Debug\Server.exe
+F:\ProjectChat\Server\obj\Debug\Server.pdb
+F:\ProjectChat\Server\bin\Debug\Server.exe
+F:\ProjectChat\Server\bin\Debug\Server.pdb
+F:\ProjectChat\Server\bin\Debug\Common.dll
+F:\ProjectChat\Server\bin\Debug\Common.pdb
+F:\ProjectChat\Server\obj\Debug\ServerSide.csprojResolveAssemblyReference.cache
+F:\ProjectChat\Server\obj\Debug\ServerSide.LoginServer.resources
+F:\ProjectChat\Server\obj\Debug\ServerSide.Properties.Resources.resources
+F:\ProjectChat\Server\obj\Debug\ServerSide.TableStatusUsers.resources
+F:\ProjectChat\Server\obj\Debug\ServerSide.csproj.GenerateResource.Cache
+E:\ProjectChat\Server\bin\Debug\Server.exe.config
+E:\ProjectChat\Server\obj\Debug\Server.exe
+E:\ProjectChat\Server\obj\Debug\Server.pdb
+E:\ProjectChat\Server\bin\Debug\Server.exe
+E:\ProjectChat\Server\bin\Debug\Server.pdb
+E:\ProjectChat\Server\bin\Debug\Common.dll
+E:\ProjectChat\Server\bin\Debug\Common.pdb
+E:\ProjectChat\Server\obj\Debug\ServerSide.csprojResolveAssemblyReference.cache
+E:\ProjectChat\Server\obj\Debug\ServerSide.LoginServer.resources
+E:\ProjectChat\Server\obj\Debug\ServerSide.Properties.Resources.resources
+E:\ProjectChat\Server\obj\Debug\ServerSide.TableStatusUsers.resources
+E:\ProjectChat\Server\obj\Debug\ServerSide.csproj.GenerateResource.Cache
